@@ -1,0 +1,33 @@
+.remark-inline-code  {
+	padding: .2em .4em;
+	margin: 0;
+	font-size: 85%;
+	background-color: rgb(217, 217, 217);
+	border-radius: 6px;
+}
+
+a {
+  font-weight: bold;
+  color: #D957A4;
+}
+
+
+.remark-slide-content {
+	font-size: 1.4rem;
+}
+
+
+strong{
+  font-weight: bold;
+}
+
+li {
+	font-size: 1.2rem;
+}
+
+
+.tiny .remark-code-line { /*Change made here*/
+  font-size: 90% !important;
+}
+
+
